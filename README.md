@@ -1,1 +1,1 @@
-# Alci Calamares config
+# Alci Calamares config - no desktop
