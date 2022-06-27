@@ -60,10 +60,7 @@ QListWidget::item:alternate {
 }
 
 
-#debugButton {
-	font: bold 8px;
-	color: #FFFFFF;
-}
+
 
 
 /* ########## TOOLTIP ########## */
@@ -261,3 +258,22 @@ QHeaderView::section {
   font : 16px;
 }
 
+#debugButton {
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+  height: 32px;
+  border: none;
+}
+
+#debugButton:hover {
+	color: #ff7f7f;
+}
+
+#aboutButton {
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+  height: 32px;
+  border: none;
+}
