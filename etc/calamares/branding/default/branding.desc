@@ -127,7 +127,7 @@ strings:
     shortVersion:        2023.01.1
     versionedName:       ALCI
     shortVersionedName:  ALCI
-    bootloaderEntryName: Generic
+    bootloaderEntryName: Arch
 
 # These images are loaded from the branding module directory.
 #
