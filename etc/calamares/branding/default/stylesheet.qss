@@ -60,7 +60,10 @@ QListWidget::item:alternate {
 }
 
 
-
+#debugButton {
+	font: bold 8px;
+	color: #FFFFFF;
+}
 
 
 /* ########## TOOLTIP ########## */

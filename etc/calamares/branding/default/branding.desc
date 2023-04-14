@@ -123,8 +123,8 @@ navigation: widget
 strings:
     productName:         ALCI
     shortProductName:    ALCI
-    version:             2021.01.1
-    shortVersion:        2020.01.1
+    version:             2023.01.1
+    shortVersion:        2023.01.1
     versionedName:       ALCI
     shortVersionedName:  ALCI
     bootloaderEntryName: Generic
@@ -175,10 +175,10 @@ images:
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
 style:
-   sidebarBackground:    "#292F34"
-   sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#292F34"
-   sidebarTextHighlight: "#D35400"
+   SidebarBackground:    "#292F34"
+   SidebarText:          "#FFFFFF"
+   SidebarTextSelect:    "#292F34"
+   SidebarTextHighlight: "#D35400"
 
 ### SLIDESHOW
 #
